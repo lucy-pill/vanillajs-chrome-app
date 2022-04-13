@@ -4,11 +4,15 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel index.html"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "npm": "^8.6.0"
+  },
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
   }
